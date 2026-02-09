@@ -1,0 +1,15 @@
+{
+  "fixed": {
+    "file_version": "1.0.0.0"
+  },
+  "info": {
+    "0000": {
+      "ProductVersion": "1.0.0",
+      "CompanyName": "HttpCall",
+      "FileDescription": "HttpCall - HTTP Client",
+      "LegalCopyright": "Copyright 2025",
+      "ProductName": "HttpCall",
+      "Comments": "Built using Wails (https://wails.io)"
+    }
+  }
+}
