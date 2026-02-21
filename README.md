@@ -81,8 +81,7 @@ QQ 交流群：1084085651 · [点击加入](https://qm.qq.com/q/6pe3oJQG7m)
 
 | 平台 | 下载链接 |
 |------|---------|
-| macOS (Apple Silicon) | [HttpCall-macOS-arm64.zip](https://ceshi872158941.bj.bcebos.com/downloads/HttpCall-macOS-arm64.zip) |
-| macOS (Intel) | [HttpCall-macOS-amd64.zip](https://ceshi872158941.bj.bcebos.com/downloads/HttpCall-macOS-amd64.zip) |
+| macOS (Universal) | [HttpCall-macOS-universal.zip](https://ceshi872158941.bj.bcebos.com/downloads/HttpCall-macOS-universal.zip) |
 | Windows (64-bit) | [HttpCall-windows-amd64.zip](https://ceshi872158941.bj.bcebos.com/downloads/HttpCall-windows-amd64.zip) |
 
 > macOS 用户首次打开可能需要在「系统设置 → 隐私与安全性」中允许运行。
